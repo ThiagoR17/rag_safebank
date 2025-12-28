@@ -4,7 +4,7 @@ Este é um chatbot avançado desenvolvido para responder a dúvidas com base em 
 
 ---
 
-## 📸 Demonstração
+##  Demonstração
 
 Aqui você pode ver o assistente em ação:
 
@@ -16,13 +16,13 @@ Aqui você pode ver o assistente em ação:
 
 ---
 
-### 🌟 Funcionalidades
+###  Funcionalidades
 * **Interface Web:** Interface amigável e responsiva construída com **Streamlit**.
 * **Consulta de Documentos:** O assistente lê e interpreta documentos internos para fornecer respostas contextualizadas.
 * **Baixa Latência:** Integrado com a API da **Groq**, permitindo respostas extremamente rápidas.
 * **Arquitetura RAG:** Utiliza LangChain para orquestrar a recuperação de dados e a geração de texto.
 
-### 🛠️ Stack Tecnológica
+###  Stack Tecnológica
 * **Interface:** [Streamlit](https://streamlit.io/)
 * **Orquestração de LLM:** [LangChain](https://www.langchain.com/)
 * **Modelo de Linguagem:** Llama 3.3 70B (via Groq Cloud)
